@@ -1,7 +1,7 @@
 # My Personal Website
 
 ## Project Description
-Welcome to my personal website project! This site is designed to showcase my skills, experiences, and interests. Built entirely with HTML, CSS and JavaScript, the goal was to create a visually appealing and easy-to-navigate website that effectively presents my background and abilities. 
+Welcome to my personal website project! This site is designed to showcase my skills, experiences, and interests. Built entirely with HTML, CSS and JavaScript, the goal was to create a visually appealing and easy-to-navigate website that effectively presents my background and abilities.
 
 ## Technologies Used
 - **HTML**: For the structure and content of the website.
