@@ -15,3 +15,6 @@ Welcome to my personal website project! This site is designed to showcase my ski
 - **Projects Section**: Showcase of past projects and work.
 - **About Me Section**: Additional information about interests and hobbies.
 - **Contact Me Section**: Information for users to get in touch.
+
+### License
+This project is licensed under the MIT License.
