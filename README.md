@@ -17,4 +17,4 @@ Welcome to my personal website project! This site is designed to showcase my ski
 - **Contact Me Section**: Information for users to get in touch.
 
 ### License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 
